@@ -1,4 +1,4 @@
-## Why Model Why - Assessing the strengths and limitations of LIME
+## Why Model Why - Assessing the Usability of LIME
 This repository includes all the files to replicate the work done in the publication "Why model why? Assessing the strengths and limitations of LIME".
 
 ## Code style
